@@ -1,3 +1,9 @@
+=======
+key-swap
+========
+
+traverses and object and swaps a key for another
+
 
 ```
 var obj = { "@id": "asdf", "x": "y" };
