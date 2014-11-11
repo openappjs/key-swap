@@ -1,6 +1,6 @@
 {
   "name": "key-swap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "traverses and object and swaps a key for another",
   "main": "index.js",
   "scripts": {
