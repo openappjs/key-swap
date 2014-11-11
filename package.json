@@ -1,0 +1,25 @@
+{
+  "name": "key-swap",
+  "version": "0.0.1",
+  "description": "traverses and object and swaps a key for another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:openappjs/key-swap.git"
+  },
+  "keywords": [
+    "key",
+    "traverse",
+    "object",
+    "swap"
+  ],
+  "author": "openappjs",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/openappjs/key-swap/issues"
+  },
+  "homepage": "https://github.com/openappjs/key-swap"
+}
